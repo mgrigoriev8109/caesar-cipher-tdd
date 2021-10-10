@@ -32,4 +32,3 @@ class CaesarCipher
     p sorted_combined_hashes.values.to_a.join("")
   end
 end
-caesar_cipher("WhAt IsthIIs!!. ", 5)
